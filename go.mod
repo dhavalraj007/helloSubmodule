@@ -1,4 +1,4 @@
-module helloModule
+module github.com/dhavalraj007/helloSubmodule
 
 go 1.20
 
