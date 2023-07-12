@@ -1,4 +1,4 @@
-package farewells
+package Bye
 
 import "fmt"
 import "rsc.io/quote"
